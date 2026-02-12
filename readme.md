@@ -214,8 +214,8 @@ streamlit run app/app.py
 Aspiring Data Analyst / Data Scientist
 Skills: Python | SQL | Machine Learning | NLP | MLflow | Power BI
 
-🔗 GitHub: *Add your GitHub link*
-🔗 LinkedIn: *Add your LinkedIn link*
+🔗 GitHub: (https://github.com/MaheshAbodhankar)
+🔗 LinkedIn: https://www.linkedin.com/in/mahesh-bodhankar-7441942a4/
 
 ---
 
